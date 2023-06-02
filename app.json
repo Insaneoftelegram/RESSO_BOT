@@ -44,7 +44,7 @@
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.get from @MissRose_bot user /id",
-        "value": "6204761408",
+        "value": "",
         "required": true
       },
       "STRING_SESSION": {
@@ -54,7 +54,7 @@
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku account's API key get from https://dashboard.heroku.com/account",
-        "value": "8924e273-fe93-4bb0-8bbb-30b50a9ca076",
+        "value": "",
         "required": false
       },
       "HEROKU_APP_NAME": {
@@ -64,12 +64,12 @@
       },
       "SUPPORT_GROUP": {
         "description": "Your Support Group link ",
-        "value": "https://t.me/AM_YTSupport",
+        "value": "https://t.me/INSANEX3_SUPPORT",
         "required": false
       },
       "SUPPORT_CHANNEL": {
         "description": "Your Updates Channel link",
-        "value": "https://t.me/AmBotYT",
+        "value": "https://t.me/INSANEX3",
         "required": false
       },
       "PING_IMG_URL": {
@@ -79,7 +79,7 @@
       },
       "START_IMG_URL": {
         "description": "The pic which will be shown when you /start the bot in private.",
-        "value": "https://telegra.ph/file/f20237d3a028a343d595a.jpg",
+        "value": "https://telegra.ph/file/da545a93169c6e91d4c98.jpg",
         "required": false
       },
       "SPOTIFY_CLIENT_ID": {
@@ -99,12 +99,12 @@
       },
        "UPSTREAM_REPO": {
         "description": "Your Fork Repo link ",
-        "value": "https://github.com/AbhiModszYT/AMMusic",
+        "value": "https://github.com/Insaneoftelegram/AMMusic",
         "required": false
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "-1001817662435",
+        "value": "",
         "required": true
       }
     },

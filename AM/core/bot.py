@@ -10,7 +10,7 @@ from ..logging import LOGGER
 
 class AnonXBot(Client):
     def __init__(self):
-        LOGGER(__name__).info(f"Starting Bot...")
+        LOGGER(__name__).info(f"Starting Resso Bot...")
         super().__init__(
             "AMMusic",
             api_id=config.API_ID,

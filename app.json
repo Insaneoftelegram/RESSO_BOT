@@ -1,7 +1,7 @@
 {
     "name": "Sophia ᴍᴜsɪᴄ",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/26aa5ce660ccb0ebdb38c.jpg",
+    "logo": "https://telegra.ph/file/da545a93169c6e91d4c98.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -99,7 +99,7 @@
       },
        "UPSTREAM_REPO": {
         "description": "Your Fork Repo link ",
-        "value": "https://github.com/Insaneoftelegram/AMMusic",
+        "value": "https://github.com/Insaneoftelegram/RESSO_BOT",
         "required": false
       },
       "LOG_GROUP_ID": {

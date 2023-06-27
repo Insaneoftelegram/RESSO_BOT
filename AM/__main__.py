@@ -69,4 +69,4 @@ async def init():
 
 if __name__ == "__main__":
     loop.run_until_complete(init())
-    LOGGER("AM").info("Stopping Music Bot...")
+    LOGGER("AM").info("Stopping Resso Music Bot...")
